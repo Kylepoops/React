@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: Bug
+labels: Bug, React-7
 assignees: ''
 
 ---
@@ -26,7 +26,7 @@ If applicable, add screenshots or video recordings to help explain your problem.
 **Server and Plugin Informations**
  - Installed plugins:
  - React Version:
- - Server Platform and Version [eg: PaperSpigot 1.14.4]:
+ - Server Platform and Version [eg: PaperSpigot 1.6.4]:
  - Operating System (if applicable):
 
 **Additional context**

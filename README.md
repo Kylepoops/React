@@ -1,8 +1,8 @@
-# Contributing
-See [Contributing](https://github.com/VolmitSoftware/React/blob/master/CONTRIBUTING.md)
+# React 7 Development
 
 # Building
-You can build a fresh copy of react very simply.
+This is the development branch for React 7. As such, it is unlikely that building this version of React will result in a working version.
+**BUILD AND DEPLOY AT YOUR OWN RISK.**
 
 #### Prerequisites 
 * Java JDK 8 must be installed

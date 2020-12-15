@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: Enhancement, Addition
+labels: Enhancement, Addition, React-7
 assignees: ''
 
 ---
