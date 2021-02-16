@@ -26,7 +26,7 @@ shadowJar {
 
 
 task wrapper(type: Wrapper) {
-    gradleVersion = '2.0'
+    gradleVersion = '4.1'
 }
 
 task release {
