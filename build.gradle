@@ -24,11 +24,6 @@ shadowJar {
     project.configurations.compile.canBeResolved = true
 }
 
-
-task wrapper(type: Wrapper) {
-    gradleVersion = '6.8.2'
-}
-
 task release {
     group 'react'
     dependsOn 'configureRelease'
